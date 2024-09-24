@@ -31,3 +31,15 @@ th,td{
 tr:nth-child(odd){
     background-color: beige;
 }
+.Oedipus:hover{
+    text-shadow: 2px 2px 5px rgb(0, 255, 153);
+    border: 2px solid darkblue; 
+    border-radius: 5px; 
+    padding: 5px; 
+    }
+    .Jocasta:hover{
+        text-shadow: 2px 2px 5px rgb(255, 0, 13);
+        border: 2px solid rgb(244, 64, 9); 
+        border-radius: 5px; 
+        padding: 5px; 
+        }    
