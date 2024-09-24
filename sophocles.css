@@ -1,0 +1,21 @@
+.speech{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+.direction {
+    font-family: Georgia, serif;
+    font-size: 14px;
+    color: black;
+    background-color: #dcf808;
+}
+.direction:hover {
+    background-color: #dcdcdc;
+    color: #333333;
+}
+.Oedipus {
+    color: #ff6347; /* Tomato */
+}
+.Jocasta {
+    color: #4682b4; /* SteelBlue */
+}
